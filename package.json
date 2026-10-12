@@ -1,0 +1,14 @@
+{
+  "name": "@red-cup-engineering/tidepool-reconciler",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tidepool reconciler: cross-site two-witness reader, off-chain H1, disclosure projection, attestations.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}
